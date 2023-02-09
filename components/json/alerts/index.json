@@ -1,20 +1,20 @@
 [
   {
-    "title": "We just released our Discord Server!",
+    "title": "i do nothing!",
     "id": "alert_1",
-    "url": "https://discord.gg/W2zPcgG9F5",
-    "button": "Join Now"
+    "url": "https://package.retardhub.net",
+    "button": "i do nothing!"
   },
   {
-    "title": "We need your Feedback, please join the Discord and leave some Feedback!",
+    "title": "I do nothing!",
     "id": "alert_2",
-    "url": "/discord",
-    "button": "Give Feedback"
+    "url": "/#",
+    "button": "hello"
   },
   {
-    "title": "We just updated our site, tell us what you think!",
+    "title": "hello",
     "id": "alert_3",
-    "url": "/discord",
-    "button": "Join the Discord"
+    "url": "/#",
+    "button": "I do nothing!"
   }
 ]
