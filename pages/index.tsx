@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>📦 Discord Package Explorer and Viewer ✨</title>
+        <title>Retardhub Discord Package Explorer!</title>
       </Head>
       <div className="h-screen">
         <SnackbarProvider>
